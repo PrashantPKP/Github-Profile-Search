@@ -14,12 +14,6 @@ A simple and efficient application that allows users to search for GitHub profil
 - **API**: GitHub REST API
 - **Libraries**: Axios (for API calls)
 
-## Installation
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/your-username/github-profile-search.git
-   cd github-profile-search
-   ```
 
    
