@@ -12,7 +12,7 @@ A simple and efficient application that allows users to search for GitHub profil
 
 - **Frontend**: HTML, CSS, JavaScript
 - **API**: GitHub REST API
-- **Libraries**: Axios (for API calls)
+- **Libraries**: Axios (for API 
 
 
 
